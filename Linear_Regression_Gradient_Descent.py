@@ -9,7 +9,7 @@ Created on Thu Jun  7 10:39:42 2018
 """
 Created on Thu Jun  7 00:27:47 2018
 
-@author: Nabila PC
+@author: RAIHAN PC
 """
 
 #The optimal values of m and b can be actually calculated with way less effort than doing a linear regression. 
